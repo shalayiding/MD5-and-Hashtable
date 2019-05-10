@@ -10,6 +10,7 @@ Settup basic 4 register 👍
 * 	`state[2] = 0x98badcfe;`
 * 	`state[3] = 0x10325476;`
 Assume we have 448 bit after we fill the bit in step one we want to use another 64 bit to represent input string we gona take the upper bit of the 448.
+MD5 function : [MD5 function](http://www.zedwood.com/article/cpp-md5-function)
 
 Inorder to see  the result : run  
 > * `cd MD5/`
